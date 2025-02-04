@@ -1,3 +1,4 @@
+# Replication of Card, Chetty & Weber (2007) – Stata Code for Coding Assignment
 This repository contains a Stata code I wrote as a coding assignment. It is a replication of paper 
 Card, David, Raj Chetty, & Andrea Weber (2007).
 "Cash-on-Hand and Competing Models of Intertemporal Behavior: New Evidence from the Labor Market."
