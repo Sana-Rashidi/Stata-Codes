@@ -6,8 +6,8 @@ Available at: [https://academic.oup.com/qje/article/122/4/1511/1850504](https://
 
 ## Repository Contents
 
-- README.txt – Overview of the replication code and structure.
-- Master Dofile (`master.do`) – Runs all scripts in order.
-- Data Cleaning Script (`cleaning.do`) – Prepares raw data for analysis.
-- Main Results Script (`main_results.do`) – Reproduces key findings from the paper.
-- Validation & Robustness Checks (`rd_validation.do`) – Implements additional tests to validate the Regression Discontinuity (RD) methodology.
+- ReadMe.txt – Overview of the replication code and structure.
+- Master Dofile (`0_Master.do`) – Runs all scripts in order.
+- Data Cleaning Script (`1_Clean.do`) – Prepares raw data for analysis.
+- Main Results Script (`2_Main_Results.do`) – Reproduces key findings from the paper.
+- Validation & Robustness Checks (`3_Tests.do`) – Implements additional tests to validate the Regression Discontinuity (RD) assumptions.
